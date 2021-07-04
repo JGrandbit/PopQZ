@@ -19,3 +19,5 @@ If questions are answered wrong, answer box will turn red and no point will be a
 
 
 ## Link to deployed app
+
+https://jgrandbit.github.io/PopQZ/
